@@ -9,6 +9,6 @@ Here are some notes about the course flow:
 * Next slides: "design patterns" of ML/HPC: independent training: (co-localization or distributed), data-parallel with w/o param. server, model-parallel (layer scale, tensor scale), CPU offloading, ...
 * Students are doing homework:
   * coding on HPC 3 algos in Layers.ipynb (ex: distributed KNN, Ensemble of Training/Inference auto-regressor forecasters on the HPC, data-parallel CNN training)
-  * using 2 high-level API: PyTorch&Tensorflow/Horovod, HuggingFace/DeepSpeed.
+  * Coding with 2 proto with high-level API: PyTorch&Tensorflow/Horovod, HuggingFace/DeepSpeed.
 
   
